@@ -4,13 +4,22 @@ Two friendly installer windows for a fresh Windows PC. Click the programs you wa
 
 | | Programs | For |
 |---|---|---|
-| **Gamer & Streamer Installer** | 1 | Game stores and launchers, mod tools, streaming and recording, capture and audio, remote play, hardware tools, gaming gear software, emulators |
-| **Programmer Installer** | 1 | Editors and IDEs, languages, Git and GitHub, Docker and cloud, terminals, databases, API tools, game and graphics dev, handy tools, AI tools |
+| **Gamer & Streamer Installer** | 99 | Game stores and launchers, mod tools, streaming and recording, capture and audio, remote play, hardware tools, gaming gear software, emulators |
+| **Programmer Installer** | 118 | Editors and IDEs, languages, Git and GitHub, Docker and cloud, terminals, databases, API tools, game and graphics dev, handy tools, AI tools |
 
 ![Gamer installer](docs/screenshots/gamer-installer.png)
 
 ![Programmer installer](docs/screenshots/programmer-installer.png)
 
+## Features
+
+- **Quick picks**: one click adds a ready-made group of programs.
+- **Search** by name or by what a program does.
+- **Installed on this PC** markers, and **Update available** markers for programs that have a newer version.
+- **Save my picks / Load picks**: keep your selection in a file and use it on another PC.
+- **Clear failure reasons** and a **Retry failed** button, with a log of every run saved to `%LOCALAPPDATA%\PCInstallers\logs`.
+- **Sensible install order** (for example WSL before Docker) and a **restart notice** when programs need one.
+- If **winget is missing**, the window says so and offers a button to get it from the Microsoft Store.
 ## Download
 
 Get the latest version from the **[Releases page](../../releases/latest)**:
@@ -19,7 +28,7 @@ Get the latest version from the **[Releases page](../../releases/latest)**:
 - Or the .zip versions, which contain the same thing as plain files (they also include an "(Admin)" launcher that asks for administrator permission once instead of for every program).
 - SHA256SUMS.txt lets you check your download.
 
-> **Windows may warn you** ("Windows protected your PC"). The .exe files are not digitally signed, because code-signing certificates cost money. Click **More info → Run anyway**, or read the source in this repo and build the files yourself (see below).
+> **Windows may warn you** ("Windows protected your PC"). The .exe files are not digitally signed, because code-signing certificates cost money. Click **More info â†’ Run anyway**, or read the source in this repo and build the files yourself (see below).
 
 ## How to use
 

@@ -1,13 +1,13 @@
 # Programmer Installer - software list
 
-107 programs. Every winget ID was checked against winget. Items marked msstore install from the Microsoft Store source.
+118 programs. Every winget ID was checked against winget. Items marked msstore install from the Microsoft Store source. Items marked (restart) usually need a restart.
 
 ## Code Editors & IDEs
 
 | Program | winget ID | What it is |
 |---|---|---|
 | Visual Studio Code | `Microsoft.VisualStudioCode` | The most popular free code editor |
-| Visual Studio 2022 Community | `Microsoft.VisualStudio.2022.Community` | Full IDE for .NET, C++ and game dev (free for individuals) |
+| Visual Studio 2022 Community (restart) | `Microsoft.VisualStudio.2022.Community` | Full IDE for .NET, C++ and game dev (free for individuals) |
 | Cursor | `Anysphere.Cursor` | AI-powered code editor based on VS Code |
 | Windsurf | `Codeium.Windsurf` | AI coding editor |
 | Zed | `ZedIndustries.Zed` | Very fast modern code editor |
@@ -42,6 +42,22 @@
 | CMake | `Kitware.CMake` | Build system generator for C and C++ |
 | Dart SDK | `Google.DartSDK` | Dart language (used by Flutter) |
 
+## Package Managers & Build Tools
+
+| Program | winget ID | What it is |
+|---|---|---|
+| nvm-windows | `CoreyButler.NVMforWindows` | Switch between Node.js versions |
+| pnpm | `pnpm.pnpm` | Fast, disk-saving package manager for JavaScript |
+| Yarn | `Yarn.Yarn` | JavaScript package manager |
+| Chocolatey | `Chocolatey.Chocolatey` | Another Windows package manager |
+| UniGetUI | `Devolutions.UniGetUI` | Graphical app for winget, Scoop and Chocolatey |
+| VS Build Tools 2022 (restart) | `Microsoft.VisualStudio.2022.BuildTools` | C++ and .NET compilers without the full Visual Studio |
+| Ninja | `Ninja-build.Ninja` | Small, fast build tool |
+| just | `Casey.Just` | Run project commands from a simple file |
+| GNU Make | `ezwinports.make` | Classic build tool |
+| MinGW-w64 (WinLibs) | `BrechtSanders.WinLibs.POSIX.UCRT` | GCC compiler toolchain for Windows |
+| Ruff | `astral-sh.ruff` | Very fast Python linter and formatter |
+
 ## Git & GitHub
 
 | Program | winget ID | What it is |
@@ -58,8 +74,8 @@
 
 | Program | winget ID | What it is |
 |---|---|---|
-| Docker Desktop | `Docker.DockerDesktop` | Run apps in containers |
-| WSL | `Microsoft.WSL` | Linux inside Windows |
+| Docker Desktop (restart) | `Docker.DockerDesktop` | Run apps in containers |
+| WSL (restart) | `Microsoft.WSL` | Linux inside Windows |
 | Ubuntu (WSL) | `Canonical.Ubuntu.2404` | Ubuntu Linux for WSL |
 | Rancher Desktop | `SUSE.RancherDesktop` | Containers and Kubernetes on your PC |
 | kubectl | `Kubernetes.kubectl` | Control Kubernetes clusters |
@@ -68,7 +84,7 @@
 | AWS CLI | `Amazon.AWSCLI` | Manage AWS from the terminal |
 | Google Cloud SDK | `Google.CloudSDK` | Manage Google Cloud |
 | Terraform | `Hashicorp.Terraform` | Infrastructure as code |
-| VirtualBox | `Oracle.VirtualBox` | Run other operating systems in a window |
+| VirtualBox (restart) | `Oracle.VirtualBox` | Run other operating systems in a window |
 
 ## Terminals & Shells
 
@@ -167,3 +183,5 @@
 ## Not available through winget (manual download)
 
 - Flutter SDK (not on winget; install with git or from flutter.dev)
+- Maven and Gradle (not on winget under a reliable ID)
+- Scoop (installs with its own command from scoop.sh)

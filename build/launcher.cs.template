@@ -6,8 +6,12 @@ using System.Reflection;
 using System.Windows.Forms;
 
 [assembly: AssemblyTitle(TITLE_TEXT)]
-[assembly: AssemblyProduct("PC Installers")]
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyDescription("Opens the installer window. Installs programs only through winget, only after you confirm.")]
+[assembly: AssemblyCompany("Gamer4life36")]
+[assembly: AssemblyProduct("PC Setup Installers")]
+[assembly: AssemblyCopyright("Copyright (c) 2026 Gamer4life36. MIT License.")]
+[assembly: AssemblyVersion("1.1.0.0")]
+[assembly: AssemblyFileVersion("1.1.0.0")]
 
 static class Program
 {

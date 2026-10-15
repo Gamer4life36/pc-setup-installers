@@ -123,7 +123,8 @@
         "name":  "Meta Quest / Oculus",
         "id":  "Meta.Oculus",
         "source":  "winget",
-        "description":  "VR headset software"
+        "description":  "VR headset software",
+        "restart":  true
     },
     {
         "category":  "Game Library \u0026 Mod Tools",
@@ -333,7 +334,8 @@
         "name":  "Elgato Wave Link",
         "id":  "Elgato.WaveLink",
         "source":  "winget",
-        "description":  "Audio mixer for Elgato mics"
+        "description":  "Audio mixer for Elgato mics",
+        "restart":  true
     },
     {
         "category":  "Capture Cards \u0026 Audio",
@@ -347,7 +349,8 @@
         "name":  "Elgato 4K Capture Utility",
         "id":  "Elgato.4KCaptureUtility",
         "source":  "winget",
-        "description":  "Elgato capture card software"
+        "description":  "Elgato capture card software",
+        "restart":  true
     },
     {
         "category":  "Capture Cards \u0026 Audio",
@@ -361,28 +364,32 @@
         "name":  "Voicemeeter",
         "id":  "VB-Audio.Voicemeeter",
         "source":  "winget",
-        "description":  "Virtual audio mixer (basic)"
+        "description":  "Virtual audio mixer (basic)",
+        "restart":  true
     },
     {
         "category":  "Capture Cards \u0026 Audio",
         "name":  "Voicemeeter Banana",
         "id":  "VB-Audio.Voicemeeter.Banana",
         "source":  "winget",
-        "description":  "Virtual audio mixer (more channels)"
+        "description":  "Virtual audio mixer (more channels)",
+        "restart":  true
     },
     {
         "category":  "Capture Cards \u0026 Audio",
         "name":  "Voicemeeter Potato",
         "id":  "VB-Audio.Voicemeeter.Potato",
         "source":  "winget",
-        "description":  "Virtual audio mixer (most channels)"
+        "description":  "Virtual audio mixer (most channels)",
+        "restart":  true
     },
     {
         "category":  "Capture Cards \u0026 Audio",
         "name":  "Equalizer APO",
         "id":  "9MV49Z407RH6",
         "source":  "msstore",
-        "description":  "System-wide audio equalizer"
+        "description":  "System-wide audio equalizer",
+        "restart":  true
     },
     {
         "category":  "Remote Play \u0026 Game Streaming",
@@ -410,7 +417,8 @@
         "name":  "NVIDIA App",
         "id":  "XP8CLZL93F5Z4P",
         "source":  "msstore",
-        "description":  "NVIDIA drivers, overlay and game settings"
+        "description":  "NVIDIA drivers, overlay and game settings",
+        "restart":  true
     },
     {
         "category":  "Performance \u0026 Hardware",
@@ -466,28 +474,32 @@
         "name":  "Logitech G HUB",
         "id":  "Logitech.GHUB",
         "source":  "winget",
-        "description":  "Logitech gaming gear"
+        "description":  "Logitech gaming gear",
+        "restart":  true
     },
     {
         "category":  "Keyboard, Mouse \u0026 Headset Software",
         "name":  "Razer Synapse 4",
         "id":  "RazerInc.RazerInstaller.Synapse4",
         "source":  "winget",
-        "description":  "Razer gaming gear"
+        "description":  "Razer gaming gear",
+        "restart":  true
     },
     {
         "category":  "Keyboard, Mouse \u0026 Headset Software",
         "name":  "Corsair iCUE 5",
         "id":  "Corsair.iCUE.5",
         "source":  "winget",
-        "description":  "Corsair gear and lighting"
+        "description":  "Corsair gear and lighting",
+        "restart":  true
     },
     {
         "category":  "Keyboard, Mouse \u0026 Headset Software",
         "name":  "SteelSeries GG",
         "id":  "SteelSeries.GG",
         "source":  "winget",
-        "description":  "SteelSeries gear, Sonar audio"
+        "description":  "SteelSeries gear, Sonar audio",
+        "restart":  true
     },
     {
         "category":  "Emulators \u0026 Retro (Optional)",

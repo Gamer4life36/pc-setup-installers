@@ -11,7 +11,8 @@
         "name":  "Visual Studio 2022 Community",
         "id":  "Microsoft.VisualStudio.2022.Community",
         "source":  "winget",
-        "description":  "Full IDE for .NET, C++ and game dev (free for individuals)"
+        "description":  "Full IDE for .NET, C++ and game dev (free for individuals)",
+        "restart":  true
     },
     {
         "category":  "Code Editors \u0026 IDEs",
@@ -210,6 +211,84 @@
         "description":  "Dart language (used by Flutter)"
     },
     {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "nvm-windows",
+        "id":  "CoreyButler.NVMforWindows",
+        "source":  "winget",
+        "description":  "Switch between Node.js versions"
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "pnpm",
+        "id":  "pnpm.pnpm",
+        "source":  "winget",
+        "description":  "Fast, disk-saving package manager for JavaScript"
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "Yarn",
+        "id":  "Yarn.Yarn",
+        "source":  "winget",
+        "description":  "JavaScript package manager"
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "Chocolatey",
+        "id":  "Chocolatey.Chocolatey",
+        "source":  "winget",
+        "description":  "Another Windows package manager"
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "UniGetUI",
+        "id":  "Devolutions.UniGetUI",
+        "source":  "winget",
+        "description":  "Graphical app for winget, Scoop and Chocolatey"
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "VS Build Tools 2022",
+        "id":  "Microsoft.VisualStudio.2022.BuildTools",
+        "source":  "winget",
+        "description":  "C++ and .NET compilers without the full Visual Studio",
+        "restart":  true
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "Ninja",
+        "id":  "Ninja-build.Ninja",
+        "source":  "winget",
+        "description":  "Small, fast build tool"
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "just",
+        "id":  "Casey.Just",
+        "source":  "winget",
+        "description":  "Run project commands from a simple file"
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "GNU Make",
+        "id":  "ezwinports.make",
+        "source":  "winget",
+        "description":  "Classic build tool"
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "MinGW-w64 (WinLibs)",
+        "id":  "BrechtSanders.WinLibs.POSIX.UCRT",
+        "source":  "winget",
+        "description":  "GCC compiler toolchain for Windows"
+    },
+    {
+        "category":  "Package Managers \u0026 Build Tools",
+        "name":  "Ruff",
+        "id":  "astral-sh.ruff",
+        "source":  "winget",
+        "description":  "Very fast Python linter and formatter"
+    },
+    {
         "category":  "Git \u0026 GitHub",
         "name":  "Git",
         "id":  "Git.Git",
@@ -263,14 +342,16 @@
         "name":  "Docker Desktop",
         "id":  "Docker.DockerDesktop",
         "source":  "winget",
-        "description":  "Run apps in containers"
+        "description":  "Run apps in containers",
+        "restart":  true
     },
     {
         "category":  "Containers, Cloud \u0026 Linux",
         "name":  "WSL",
         "id":  "Microsoft.WSL",
         "source":  "winget",
-        "description":  "Linux inside Windows"
+        "description":  "Linux inside Windows",
+        "restart":  true
     },
     {
         "category":  "Containers, Cloud \u0026 Linux",
@@ -333,7 +414,8 @@
         "name":  "VirtualBox",
         "id":  "Oracle.VirtualBox",
         "source":  "winget",
-        "description":  "Run other operating systems in a window"
+        "description":  "Run other operating systems in a window",
+        "restart":  true
     },
     {
         "category":  "Terminals \u0026 Shells",

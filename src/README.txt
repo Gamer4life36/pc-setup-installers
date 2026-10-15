@@ -4,7 +4,7 @@ Two friendly installer windows. Pick programs, press one button, and they downlo
 install quietly through Windows' built-in package manager (winget).
 
   - Gamer Installer       : 99 programs - game stores, mod tools, streaming, emulators, gear software
-  - Programmer Installer  : 107 programs - editors, languages, Git, Docker, databases, AI tools, game dev
+  - Programmer Installer  : 118 programs - editors, languages, Git, Docker, databases, AI tools, game dev
 
 HOW TO USE
 1. Double-click "Gamer Installer.bat" or "Programmer Installer.bat". A window opens.
@@ -20,6 +20,14 @@ HOW TO USE
    "Stop after this program" finishes the current program and skips the rest.
 4. Some programs may show a Windows permission (UAC) prompt. That is normal - choose Yes.
 
+MORE FEATURES
+- Save my picks / Load picks: save your selection to a file and load it on another PC.
+- Update installed programs: appears when programs you already have (from the list) have a newer version.
+- Retry failed: if some programs fail, the log says why in plain words and you can retry just those.
+- Install order: programs that others depend on (for example WSL before Docker) go first.
+- Restart notice: after installing, it tells you if a restart is needed. A log of every run is saved in
+  %LOCALAPPDATA%\PCInstallers\logs and the "Open install log" button shows it.
+- If winget is missing, the window says so and offers a button to get it from the Microsoft Store.
 REQUIREMENTS
 - Windows 10 (1809 or newer) or Windows 11 with winget ("App Installer"), already on most PCs.
 - An internet connection.

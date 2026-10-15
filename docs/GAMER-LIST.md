@@ -1,6 +1,6 @@
 # Gamer & Streamer Installer - software list
 
-99 programs. Every winget ID was checked against winget. Items marked msstore install from the Microsoft Store source.
+99 programs. Every winget ID was checked against winget. Items marked msstore install from the Microsoft Store source. Items marked (restart) usually need a restart.
 
 ## Game Launchers & Stores
 
@@ -23,7 +23,7 @@
 | Roblox Player | `Roblox.Roblox` | Roblox |
 | League of Legends (NA) | `RiotGames.LeagueOfLegends.NA` | Riot Client + League (North America) |
 | VALORANT (NA) | `RiotGames.Valorant.NA` | Riot Client + VALORANT (North America) |
-| Meta Quest / Oculus | `Meta.Oculus` | VR headset software |
+| Meta Quest / Oculus (restart) | `Meta.Oculus` | VR headset software |
 
 ## Game Library & Mod Tools
 
@@ -73,14 +73,14 @@
 | Program | winget ID | What it is |
 |---|---|---|
 | Elgato Stream Deck | `Elgato.StreamDeck` | Stream Deck button software |
-| Elgato Wave Link | `Elgato.WaveLink` | Audio mixer for Elgato mics |
+| Elgato Wave Link (restart) | `Elgato.WaveLink` | Audio mixer for Elgato mics |
 | Elgato Camera Hub | `Elgato.CameraHub` | Elgato webcam settings |
-| Elgato 4K Capture Utility | `Elgato.4KCaptureUtility` | Elgato capture card software |
+| Elgato 4K Capture Utility (restart) | `Elgato.4KCaptureUtility` | Elgato capture card software |
 | Elgato Control Center | `Elgato.ControlCenter` | Elgato lights |
-| Voicemeeter | `VB-Audio.Voicemeeter` | Virtual audio mixer (basic) |
-| Voicemeeter Banana | `VB-Audio.Voicemeeter.Banana` | Virtual audio mixer (more channels) |
-| Voicemeeter Potato | `VB-Audio.Voicemeeter.Potato` | Virtual audio mixer (most channels) |
-| Equalizer APO | `9MV49Z407RH6 (msstore)` | System-wide audio equalizer |
+| Voicemeeter (restart) | `VB-Audio.Voicemeeter` | Virtual audio mixer (basic) |
+| Voicemeeter Banana (restart) | `VB-Audio.Voicemeeter.Banana` | Virtual audio mixer (more channels) |
+| Voicemeeter Potato (restart) | `VB-Audio.Voicemeeter.Potato` | Virtual audio mixer (most channels) |
+| Equalizer APO (restart) | `9MV49Z407RH6 (msstore)` | System-wide audio equalizer |
 
 ## Remote Play & Game Streaming
 
@@ -94,7 +94,7 @@
 
 | Program | winget ID | What it is |
 |---|---|---|
-| NVIDIA App | `XP8CLZL93F5Z4P (msstore)` | NVIDIA drivers, overlay and game settings |
+| NVIDIA App (restart) | `XP8CLZL93F5Z4P (msstore)` | NVIDIA drivers, overlay and game settings |
 | MSI Afterburner | `Guru3D.Afterburner` | GPU overclocking and FPS overlay |
 | HWiNFO | `REALiX.HWiNFO` | Hardware sensors and temperatures |
 | CapFrameX | `CXWorld.CapFrameX` | Frame time benchmarking |
@@ -107,10 +107,10 @@
 
 | Program | winget ID | What it is |
 |---|---|---|
-| Logitech G HUB | `Logitech.GHUB` | Logitech gaming gear |
-| Razer Synapse 4 | `RazerInc.RazerInstaller.Synapse4` | Razer gaming gear |
-| Corsair iCUE 5 | `Corsair.iCUE.5` | Corsair gear and lighting |
-| SteelSeries GG | `SteelSeries.GG` | SteelSeries gear, Sonar audio |
+| Logitech G HUB (restart) | `Logitech.GHUB` | Logitech gaming gear |
+| Razer Synapse 4 (restart) | `RazerInc.RazerInstaller.Synapse4` | Razer gaming gear |
+| Corsair iCUE 5 (restart) | `Corsair.iCUE.5` | Corsair gear and lighting |
+| SteelSeries GG (restart) | `SteelSeries.GG` | SteelSeries gear, Sonar audio |
 
 ## Emulators & Retro (Optional)
 

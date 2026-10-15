@@ -399,5 +399,9 @@
     "ES-DE.EmulationStation-DE":  {
                                       "file":  "ES-DE.EmulationStation-DE.png",
                                       "brand":  "EmulationStation DE"
-                                  }
+                                  },
+    "DeSmuMETeam.DeSmuME":  {
+                                "file":  "DeSmuMETeam.DeSmuME.png",
+                                "brand":  "DeSmuME"
+                            }
 }

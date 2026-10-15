@@ -9,5 +9,20 @@
                     "Microsoft.VisualStudioCode",
                     "Git.Git",
                     "Microsoft.WindowsTerminal"
-                ]
+                ],
+    "installFirst":  [
+                         "Microsoft.WSL",
+                         "Canonical.Ubuntu.2404",
+                         "Git.Git",
+                         "Microsoft.PowerShell",
+                         "Microsoft.WindowsTerminal",
+                         "OpenJS.NodeJS.LTS",
+                         "Python.Python.3.13",
+                         "GoLang.Go",
+                         "Rustlang.Rustup",
+                         "EclipseAdoptium.Temurin.21.JDK",
+                         "Microsoft.DotNet.SDK.9",
+                         "Docker.DockerDesktop"
+                     ],
+    "afterInstall":  "Tip: open a NEW terminal window so newly installed tools (git, node, python and so on) are found."
 }

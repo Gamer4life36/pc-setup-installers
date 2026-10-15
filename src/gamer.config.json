@@ -10,5 +10,8 @@
                     "EpicGames.EpicGamesLauncher",
                     "Discord.Discord",
                     "OBSProject.OBSStudio"
-                ]
+                ],
+    "installFirst":  [
+                         "XP8CLZL93F5Z4P"
+                     ]
 }
