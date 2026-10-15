@@ -1,0 +1,85 @@
+[
+    {
+        "name":  "Gamer essentials",
+        "tip":  "Steam, Epic, GOG, EA, Ubisoft, Battle.net, Discord, plus monitoring tools",
+        "ids":  [
+                    "Valve.Steam",
+                    "EpicGames.EpicGamesLauncher",
+                    "GOG.Galaxy",
+                    "ElectronicArts.EADesktop",
+                    "Ubisoft.Connect",
+                    "Blizzard.BattleNet",
+                    "Discord.Discord",
+                    "Guru3D.Afterburner",
+                    "REALiX.HWiNFO"
+                ]
+    },
+    {
+        "name":  "Streamer starter",
+        "tip":  "OBS, Stream Deck, audio mixer, chat tools and clip tools",
+        "ids":  [
+                    "OBSProject.OBSStudio",
+                    "Elgato.StreamDeck",
+                    "Elgato.WaveLink",
+                    "VB-Audio.Voicemeeter",
+                    "Discord.Discord",
+                    "ChatterinoTeam.Chatterino",
+                    "streamerbot.streamerbot",
+                    "ShareX.ShareX",
+                    "VideoLAN.VLC"
+                ]
+    },
+    {
+        "name":  "Retro gaming",
+        "tip":  "RetroArch, a front-end and the most popular console emulators",
+        "ids":  [
+                    "Libretro.RetroArch",
+                    "ES-DE.EmulationStation-DE",
+                    "SteamGridDB.RomManager",
+                    "Stenzek.DuckStation",
+                    "PCSX2Team.PCSX2",
+                    "PPSSPPTeam.PPSSPP",
+                    "DolphinEmulator.Dolphin",
+                    "Project64.Project64",
+                    "JeffreyPfau.mGBA",
+                    "melonDS.melonDS",
+                    "SourMesen.Mesen2",
+                    "bsnes-emu.BSNES"
+                ]
+    },
+    {
+        "name":  "Mod your games",
+        "tip":  "Mod managers, load-order tool, trainers and graphics filters",
+        "ids":  [
+                    "NexusMods.Vortex",
+                    "ModOrganizer2.modorganizer",
+                    "LOOT.LOOT",
+                    "Overwolf.CurseForge",
+                    "ebkr.r2modman",
+                    "PrismLauncher.PrismLauncher",
+                    "WeMod.WeMod",
+                    "Reshade.Setup"
+                ]
+    },
+    {
+        "name":  "Play from anywhere",
+        "tip":  "Stream your games to another screen",
+        "ids":  [
+                    "Valve.SteamLink",
+                    "MoonlightGameStreamingProject.Moonlight",
+                    "Parsec.Parsec"
+                ]
+    },
+    {
+        "name":  "Gaming gear \u0026 RGB",
+        "tip":  "Keyboard, mouse and headset software plus RGB lighting control",
+        "ids":  [
+                    "Logitech.GHUB",
+                    "RazerInc.RazerInstaller.Synapse4",
+                    "Corsair.iCUE.5",
+                    "SteelSeries.GG",
+                    "OpenRGB.OpenRGB",
+                    "WhirlwindFX.SignalRgb"
+                ]
+    }
+]

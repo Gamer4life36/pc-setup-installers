@@ -1,0 +1,100 @@
+[
+    {
+        "name":  "Web developer",
+        "tip":  "VS Code, Git, Node.js, terminal, Chrome, Postman and Docker",
+        "ids":  [
+                    "Microsoft.VisualStudioCode",
+                    "Git.Git",
+                    "GitHub.cli",
+                    "OpenJS.NodeJS.LTS",
+                    "Microsoft.WindowsTerminal",
+                    "Google.Chrome",
+                    "Postman.Postman",
+                    "Docker.DockerDesktop"
+                ]
+    },
+    {
+        "name":  "Python \u0026 data",
+        "tip":  "Python, uv, editors and database tools",
+        "ids":  [
+                    "Python.Python.3.13",
+                    "astral-sh.uv",
+                    "Microsoft.VisualStudioCode",
+                    "JetBrains.PyCharm.Community",
+                    "Git.Git",
+                    "DBeaver.DBeaver.Community",
+                    "SQLite.SQLite"
+                ]
+    },
+    {
+        "name":  "Game developer",
+        "tip":  "Unity Hub, Godot, Unreal (via Epic), Blender and art tools",
+        "ids":  [
+                    "Unity.UnityHub",
+                    "GodotEngine.GodotEngine",
+                    "EpicGames.EpicGamesLauncher",
+                    "BlenderFoundation.Blender",
+                    "Microsoft.VisualStudio.2022.Community",
+                    "Git.Git",
+                    "KDE.Krita",
+                    "Audacity.Audacity",
+                    "Gyan.FFmpeg"
+                ]
+    },
+    {
+        "name":  "DevOps \u0026 cloud",
+        "tip":  "Docker, WSL, Kubernetes tools, Terraform and the cloud CLIs",
+        "ids":  [
+                    "Docker.DockerDesktop",
+                    "Microsoft.WSL",
+                    "Kubernetes.kubectl",
+                    "Helm.Helm",
+                    "Hashicorp.Terraform",
+                    "Microsoft.AzureCLI",
+                    "Amazon.AWSCLI",
+                    "Google.CloudSDK",
+                    "Git.Git"
+                ]
+    },
+    {
+        "name":  "Terminal power user",
+        "tip":  "Modern terminal, prompt themes and fast command-line tools",
+        "ids":  [
+                    "Microsoft.WindowsTerminal",
+                    "Microsoft.PowerShell",
+                    "JanDeDobbeleer.OhMyPosh",
+                    "Starship.Starship",
+                    "BurntSushi.ripgrep.MSVC",
+                    "junegunn.fzf",
+                    "jqlang.jq",
+                    "Neovim.Neovim",
+                    "JesseDuffield.lazygit",
+                    "Git.Git"
+                ]
+    },
+    {
+        "name":  "AI developer",
+        "tip":  "Claude, local AI models and an AI code editor",
+        "ids":  [
+                    "Anthropic.ClaudeCode",
+                    "Anthropic.Claude",
+                    "Ollama.Ollama",
+                    "ElementLabs.LMStudio",
+                    "Anysphere.Cursor",
+                    "Python.Python.3.13",
+                    "Git.Git"
+                ]
+    },
+    {
+        "name":  "Handy essentials",
+        "tip":  "7-Zip, PowerToys, instant search, compare tool and notes",
+        "ids":  [
+                    "7zip.7zip",
+                    "Microsoft.PowerToys",
+                    "voidtools.Everything",
+                    "WinMerge.WinMerge",
+                    "Obsidian.Obsidian",
+                    "Microsoft.Sysinternals.Suite"
+                ]
+    }
+]

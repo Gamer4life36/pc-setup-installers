@@ -1,0 +1,49 @@
+using System;
+using System.Diagnostics;
+using System.IO;
+using System.IO.Compression;
+using System.Reflection;
+using System.Windows.Forms;
+
+[assembly: AssemblyTitle(TITLE_TEXT)]
+[assembly: AssemblyProduct("PC Installers")]
+[assembly: AssemblyVersion("1.0.0.0")]
+
+static class Program
+{
+    [STAThread]
+    static int Main()
+    {
+        try
+        {
+            string dest = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "PCInstallers", FOLDER_NAME);
+            Directory.CreateDirectory(dest);
+            string root = Path.GetFullPath(dest) + Path.DirectorySeparatorChar;
+            using (Stream s = Assembly.GetExecutingAssembly().GetManifestResourceStream("payload.zip"))
+            using (ZipArchive z = new ZipArchive(s, ZipArchiveMode.Read))
+            {
+                foreach (ZipArchiveEntry e in z.Entries)
+                {
+                    string name = e.FullName.Replace('\\', '/');
+                    string target = Path.GetFullPath(Path.Combine(dest, name.Replace('/', Path.DirectorySeparatorChar)));
+                    if (!target.StartsWith(root, StringComparison.OrdinalIgnoreCase)) continue; // never write outside the folder
+                    if (name.EndsWith("/")) { Directory.CreateDirectory(target); continue; }
+                    Directory.CreateDirectory(Path.GetDirectoryName(target));
+                    e.ExtractToFile(target, true);
+                }
+            }
+            ProcessStartInfo psi = new ProcessStartInfo("powershell.exe",
+                "-NoProfile -ExecutionPolicy Bypass -STA -WindowStyle Hidden -File \"" + Path.Combine(dest, SCRIPT_NAME) + "\"");
+            psi.UseShellExecute = false;
+            psi.CreateNoWindow = true;
+            psi.WorkingDirectory = dest;
+            Process.Start(psi);
+            return 0;
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Could not start the installer:\n\n" + ex.Message, TITLE_TEXT, MessageBoxButtons.OK, MessageBoxIcon.Error);
+            return 1;
+        }
+    }
+}

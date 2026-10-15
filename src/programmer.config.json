@@ -1,0 +1,13 @@
+{
+    "title":  "Programmer Installer",
+    "subtitle":  "Click a program to pick it. Nothing is installed until you press the big green button.",
+    "catalog":  "programmer-catalog.json",
+    "icons":  "programmer-icons.json",
+    "iconDir":  "icons-programmer",
+    "presets":  "programmer-presets.json",
+    "starter":  [
+                    "Microsoft.VisualStudioCode",
+                    "Git.Git",
+                    "Microsoft.WindowsTerminal"
+                ]
+}

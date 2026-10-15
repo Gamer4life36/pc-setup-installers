@@ -1,0 +1,14 @@
+{
+    "title":  "Gamer \u0026 Streamer Installer",
+    "subtitle":  "Click a program to pick it. Nothing is installed until you press the big green button.",
+    "catalog":  "gamer-catalog.json",
+    "icons":  "gamer-icons.json",
+    "iconDir":  "icons",
+    "presets":  "gamer-presets.json",
+    "starter":  [
+                    "Valve.Steam",
+                    "EpicGames.EpicGamesLauncher",
+                    "Discord.Discord",
+                    "OBSProject.OBSStudio"
+                ]
+}

@@ -1,0 +1,751 @@
+[
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Visual Studio Code",
+        "id":  "Microsoft.VisualStudioCode",
+        "source":  "winget",
+        "description":  "The most popular free code editor"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Visual Studio 2022 Community",
+        "id":  "Microsoft.VisualStudio.2022.Community",
+        "source":  "winget",
+        "description":  "Full IDE for .NET, C++ and game dev (free for individuals)"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Cursor",
+        "id":  "Anysphere.Cursor",
+        "source":  "winget",
+        "description":  "AI-powered code editor based on VS Code"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Windsurf",
+        "id":  "Codeium.Windsurf",
+        "source":  "winget",
+        "description":  "AI coding editor"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Zed",
+        "id":  "ZedIndustries.Zed",
+        "source":  "winget",
+        "description":  "Very fast modern code editor"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Sublime Text 4",
+        "id":  "SublimeHQ.SublimeText.4",
+        "source":  "winget",
+        "description":  "Fast, lightweight text and code editor"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Notepad++",
+        "id":  "Notepad++.Notepad++",
+        "source":  "winget",
+        "description":  "Classic free text and code editor"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Neovim",
+        "id":  "Neovim.Neovim",
+        "source":  "winget",
+        "description":  "Modern Vim for keyboard-driven editing"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "JetBrains Toolbox",
+        "id":  "JetBrains.Toolbox",
+        "source":  "winget",
+        "description":  "Installs and updates all JetBrains IDEs"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "IntelliJ IDEA Community",
+        "id":  "JetBrains.IntelliJIDEA.Community",
+        "source":  "winget",
+        "description":  "Java and Kotlin IDE"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "PyCharm Community",
+        "id":  "JetBrains.PyCharm.Community",
+        "source":  "winget",
+        "description":  "Python IDE"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Android Studio",
+        "id":  "Google.AndroidStudio",
+        "source":  "winget",
+        "description":  "Official IDE for Android apps"
+    },
+    {
+        "category":  "Code Editors \u0026 IDEs",
+        "name":  "Arduino IDE",
+        "id":  "ArduinoSA.IDE.stable",
+        "source":  "winget",
+        "description":  "Program Arduino boards"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Python 3.13",
+        "id":  "Python.Python.3.13",
+        "source":  "winget",
+        "description":  "Python language and pip"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Node.js (LTS)",
+        "id":  "OpenJS.NodeJS.LTS",
+        "source":  "winget",
+        "description":  "JavaScript runtime with npm"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Go",
+        "id":  "GoLang.Go",
+        "source":  "winget",
+        "description":  "Go language"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Rust (rustup)",
+        "id":  "Rustlang.Rustup",
+        "source":  "winget",
+        "description":  "Rust language and cargo"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Java JDK 21 (Temurin)",
+        "id":  "EclipseAdoptium.Temurin.21.JDK",
+        "source":  "winget",
+        "description":  "Java development kit, long-term support"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  ".NET SDK 9",
+        "id":  "Microsoft.DotNet.SDK.9",
+        "source":  "winget",
+        "description":  "Build C# and .NET apps"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Ruby",
+        "id":  "RubyInstallerTeam.Ruby.3.4",
+        "source":  "winget",
+        "description":  "Ruby language"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "PHP",
+        "id":  "PHP.PHP.8.4",
+        "source":  "winget",
+        "description":  "PHP language"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Bun",
+        "id":  "Oven-sh.Bun",
+        "source":  "winget",
+        "description":  "Fast JavaScript runtime and package manager"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Deno",
+        "id":  "DenoLand.Deno",
+        "source":  "winget",
+        "description":  "Secure JavaScript and TypeScript runtime"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "uv (Python)",
+        "id":  "astral-sh.uv",
+        "source":  "winget",
+        "description":  "Very fast Python package manager"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Zig",
+        "id":  "zig.zig",
+        "source":  "winget",
+        "description":  "Zig language"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "R",
+        "id":  "RProject.R",
+        "source":  "winget",
+        "description":  "R language for statistics"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Julia",
+        "id":  "Julialang.Julia",
+        "source":  "winget",
+        "description":  "Julia language for science"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "LLVM / Clang",
+        "id":  "LLVM.LLVM",
+        "source":  "winget",
+        "description":  "C and C++ compiler toolchain"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "CMake",
+        "id":  "Kitware.CMake",
+        "source":  "winget",
+        "description":  "Build system generator for C and C++"
+    },
+    {
+        "category":  "Languages \u0026 Runtimes",
+        "name":  "Dart SDK",
+        "id":  "Google.DartSDK",
+        "source":  "winget",
+        "description":  "Dart language (used by Flutter)"
+    },
+    {
+        "category":  "Git \u0026 GitHub",
+        "name":  "Git",
+        "id":  "Git.Git",
+        "source":  "winget",
+        "description":  "Version control (includes Git Bash)"
+    },
+    {
+        "category":  "Git \u0026 GitHub",
+        "name":  "GitHub CLI",
+        "id":  "GitHub.cli",
+        "source":  "winget",
+        "description":  "Use GitHub from the terminal"
+    },
+    {
+        "category":  "Git \u0026 GitHub",
+        "name":  "GitHub Desktop",
+        "id":  "GitHub.GitHubDesktop",
+        "source":  "winget",
+        "description":  "Simple graphical Git client"
+    },
+    {
+        "category":  "Git \u0026 GitHub",
+        "name":  "Git LFS",
+        "id":  "GitHub.GitLFS",
+        "source":  "winget",
+        "description":  "Large file support for Git"
+    },
+    {
+        "category":  "Git \u0026 GitHub",
+        "name":  "GitKraken",
+        "id":  "Axosoft.GitKraken",
+        "source":  "winget",
+        "description":  "Visual Git client"
+    },
+    {
+        "category":  "Git \u0026 GitHub",
+        "name":  "TortoiseGit",
+        "id":  "TortoiseGit.TortoiseGit",
+        "source":  "winget",
+        "description":  "Git in Windows Explorer"
+    },
+    {
+        "category":  "Git \u0026 GitHub",
+        "name":  "Lazygit",
+        "id":  "JesseDuffield.lazygit",
+        "source":  "winget",
+        "description":  "Git in the terminal, with menus"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "Docker Desktop",
+        "id":  "Docker.DockerDesktop",
+        "source":  "winget",
+        "description":  "Run apps in containers"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "WSL",
+        "id":  "Microsoft.WSL",
+        "source":  "winget",
+        "description":  "Linux inside Windows"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "Ubuntu (WSL)",
+        "id":  "Canonical.Ubuntu.2404",
+        "source":  "winget",
+        "description":  "Ubuntu Linux for WSL"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "Rancher Desktop",
+        "id":  "SUSE.RancherDesktop",
+        "source":  "winget",
+        "description":  "Containers and Kubernetes on your PC"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "kubectl",
+        "id":  "Kubernetes.kubectl",
+        "source":  "winget",
+        "description":  "Control Kubernetes clusters"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "Helm",
+        "id":  "Helm.Helm",
+        "source":  "winget",
+        "description":  "Kubernetes package manager"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "Azure CLI",
+        "id":  "Microsoft.AzureCLI",
+        "source":  "winget",
+        "description":  "Manage Azure from the terminal"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "AWS CLI",
+        "id":  "Amazon.AWSCLI",
+        "source":  "winget",
+        "description":  "Manage AWS from the terminal"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "Google Cloud SDK",
+        "id":  "Google.CloudSDK",
+        "source":  "winget",
+        "description":  "Manage Google Cloud"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "Terraform",
+        "id":  "Hashicorp.Terraform",
+        "source":  "winget",
+        "description":  "Infrastructure as code"
+    },
+    {
+        "category":  "Containers, Cloud \u0026 Linux",
+        "name":  "VirtualBox",
+        "id":  "Oracle.VirtualBox",
+        "source":  "winget",
+        "description":  "Run other operating systems in a window"
+    },
+    {
+        "category":  "Terminals \u0026 Shells",
+        "name":  "Windows Terminal",
+        "id":  "Microsoft.WindowsTerminal",
+        "source":  "winget",
+        "description":  "Modern tabbed terminal"
+    },
+    {
+        "category":  "Terminals \u0026 Shells",
+        "name":  "PowerShell 7",
+        "id":  "Microsoft.PowerShell",
+        "source":  "winget",
+        "description":  "Current PowerShell"
+    },
+    {
+        "category":  "Terminals \u0026 Shells",
+        "name":  "Oh My Posh",
+        "id":  "JanDeDobbeleer.OhMyPosh",
+        "source":  "winget",
+        "description":  "Pretty prompt themes"
+    },
+    {
+        "category":  "Terminals \u0026 Shells",
+        "name":  "Starship",
+        "id":  "Starship.Starship",
+        "source":  "winget",
+        "description":  "Fast, customizable shell prompt"
+    },
+    {
+        "category":  "Terminals \u0026 Shells",
+        "name":  "WezTerm",
+        "id":  "wez.wezterm",
+        "source":  "winget",
+        "description":  "GPU-accelerated terminal"
+    },
+    {
+        "category":  "Terminals \u0026 Shells",
+        "name":  "Alacritty",
+        "id":  "Alacritty.Alacritty",
+        "source":  "winget",
+        "description":  "Very fast terminal"
+    },
+    {
+        "category":  "Terminals \u0026 Shells",
+        "name":  "Nushell",
+        "id":  "Nushell.Nushell",
+        "source":  "winget",
+        "description":  "Shell that treats data as tables"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "DBeaver",
+        "id":  "DBeaver.DBeaver.Community",
+        "source":  "winget",
+        "description":  "One tool for almost every database"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "PostgreSQL 17",
+        "id":  "PostgreSQL.PostgreSQL.17",
+        "source":  "winget",
+        "description":  "PostgreSQL database server"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "pgAdmin 4",
+        "id":  "PostgreSQL.pgAdmin",
+        "source":  "winget",
+        "description":  "PostgreSQL management tool"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "MySQL",
+        "id":  "Oracle.MySQL",
+        "source":  "winget",
+        "description":  "MySQL database server"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "MongoDB Compass",
+        "id":  "MongoDB.Compass.Full",
+        "source":  "winget",
+        "description":  "Browse and edit MongoDB data"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "DB Browser for SQLite",
+        "id":  "DBBrowserForSQLite.DBBrowserForSQLite",
+        "source":  "winget",
+        "description":  "Open and edit SQLite files"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "SSMS",
+        "id":  "Microsoft.SQLServerManagementStudio",
+        "source":  "winget",
+        "description":  "Manage SQL Server"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "TablePlus",
+        "id":  "TablePlus.TablePlus",
+        "source":  "winget",
+        "description":  "Clean database client"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "SQLite",
+        "id":  "SQLite.SQLite",
+        "source":  "winget",
+        "description":  "Tiny file-based database"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "Redis Insight",
+        "id":  "RedisInsight.RedisInsight",
+        "source":  "winget",
+        "description":  "Browse and manage Redis data"
+    },
+    {
+        "category":  "Databases \u0026 Data",
+        "name":  "MongoDB Shell",
+        "id":  "MongoDB.Shell",
+        "source":  "winget",
+        "description":  "Command line for MongoDB"
+    },
+    {
+        "category":  "API, Testing \u0026 Network",
+        "name":  "Postman",
+        "id":  "Postman.Postman",
+        "source":  "winget",
+        "description":  "Build and test APIs"
+    },
+    {
+        "category":  "API, Testing \u0026 Network",
+        "name":  "Insomnia",
+        "id":  "Insomnia.Insomnia",
+        "source":  "winget",
+        "description":  "API client"
+    },
+    {
+        "category":  "API, Testing \u0026 Network",
+        "name":  "Bruno",
+        "id":  "Bruno.Bruno",
+        "source":  "winget",
+        "description":  "Open-source API client"
+    },
+    {
+        "category":  "API, Testing \u0026 Network",
+        "name":  "Wireshark",
+        "id":  "WiresharkFoundation.Wireshark",
+        "source":  "winget",
+        "description":  "See what your network is doing"
+    },
+    {
+        "category":  "API, Testing \u0026 Network",
+        "name":  "HTTP Toolkit",
+        "id":  "HTTPToolKit.HTTPToolKit",
+        "source":  "winget",
+        "description":  "Inspect and debug HTTP traffic"
+    },
+    {
+        "category":  "API, Testing \u0026 Network",
+        "name":  "ngrok",
+        "id":  "Ngrok.Ngrok",
+        "source":  "winget",
+        "description":  "Share localhost on the internet"
+    },
+    {
+        "category":  "API, Testing \u0026 Network",
+        "name":  "Fiddler Everywhere",
+        "id":  "Telerik.Fiddler.Everywhere",
+        "source":  "winget",
+        "description":  "Web debugging proxy"
+    },
+    {
+        "category":  "Browsers \u0026 Web Dev",
+        "name":  "Google Chrome",
+        "id":  "Google.Chrome",
+        "source":  "winget",
+        "description":  "Browser with strong developer tools"
+    },
+    {
+        "category":  "Browsers \u0026 Web Dev",
+        "name":  "Firefox Developer Edition",
+        "id":  "Mozilla.Firefox.DeveloperEdition",
+        "source":  "winget",
+        "description":  "Firefox with extra developer features"
+    },
+    {
+        "category":  "Browsers \u0026 Web Dev",
+        "name":  "Microsoft Edge Dev",
+        "id":  "Microsoft.Edge.Dev",
+        "source":  "winget",
+        "description":  "Early access Edge"
+    },
+    {
+        "category":  "Browsers \u0026 Web Dev",
+        "name":  "Brave",
+        "id":  "Brave.Brave",
+        "source":  "winget",
+        "description":  "Privacy-focused browser"
+    },
+    {
+        "category":  "Browsers \u0026 Web Dev",
+        "name":  "XAMPP",
+        "id":  "ApacheFriends.Xampp.8.2",
+        "source":  "winget",
+        "description":  "Local Apache, PHP and MySQL"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "Unity Hub",
+        "id":  "Unity.UnityHub",
+        "source":  "winget",
+        "description":  "Install and manage Unity engine versions"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "Godot",
+        "id":  "GodotEngine.GodotEngine",
+        "source":  "winget",
+        "description":  "Free open-source game engine"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "Epic Games Launcher (Unreal)",
+        "id":  "EpicGames.EpicGamesLauncher",
+        "source":  "winget",
+        "description":  "Gets Unreal Engine"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "Blender",
+        "id":  "BlenderFoundation.Blender",
+        "source":  "winget",
+        "description":  "Free 3D modeling and animation"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "Krita",
+        "id":  "KDE.Krita",
+        "source":  "winget",
+        "description":  "Digital painting"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "GIMP",
+        "id":  "GIMP.GIMP.3",
+        "source":  "winget",
+        "description":  "Photo and image editing"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "Inkscape",
+        "id":  "Inkscape.Inkscape",
+        "source":  "winget",
+        "description":  "Vector graphics"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "Audacity",
+        "id":  "Audacity.Audacity",
+        "source":  "winget",
+        "description":  "Audio editing"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "FFmpeg",
+        "id":  "Gyan.FFmpeg",
+        "source":  "winget",
+        "description":  "Convert and process video and audio"
+    },
+    {
+        "category":  "Game \u0026 Graphics Dev",
+        "name":  "HandBrake",
+        "id":  "HandBrake.HandBrake",
+        "source":  "winget",
+        "description":  "Video converter"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "7-Zip",
+        "id":  "7zip.7zip",
+        "source":  "winget",
+        "description":  "Zip and unzip almost anything"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "PowerToys",
+        "id":  "Microsoft.PowerToys",
+        "source":  "winget",
+        "description":  "Extra Windows power tools"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "Everything",
+        "id":  "voidtools.Everything",
+        "source":  "winget",
+        "description":  "Instant file search"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "Sysinternals Suite",
+        "id":  "Microsoft.Sysinternals.Suite",
+        "source":  "winget",
+        "description":  "Windows diagnostic tools"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "WinMerge",
+        "id":  "WinMerge.WinMerge",
+        "source":  "winget",
+        "description":  "Compare files and folders"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "WinSCP",
+        "id":  "WinSCP.WinSCP",
+        "source":  "winget",
+        "description":  "Transfer files over SFTP and SCP"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "PuTTY",
+        "id":  "PuTTY.PuTTY",
+        "source":  "winget",
+        "description":  "SSH and serial client"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "jq",
+        "id":  "jqlang.jq",
+        "source":  "winget",
+        "description":  "Process JSON in the terminal"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "ripgrep",
+        "id":  "BurntSushi.ripgrep.MSVC",
+        "source":  "winget",
+        "description":  "Very fast text search"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "fzf",
+        "id":  "junegunn.fzf",
+        "source":  "winget",
+        "description":  "Fuzzy finder for the terminal"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "AutoHotkey",
+        "id":  "AutoHotkey.AutoHotkey",
+        "source":  "winget",
+        "description":  "Automate keys and mouse"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "Obsidian",
+        "id":  "Obsidian.Obsidian",
+        "source":  "winget",
+        "description":  "Notes in plain files"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "Notion",
+        "id":  "Notion.Notion",
+        "source":  "winget",
+        "description":  "Notes and docs"
+    },
+    {
+        "category":  "Handy Tools",
+        "name":  "Slack",
+        "id":  "SlackTechnologies.Slack",
+        "source":  "winget",
+        "description":  "Team chat"
+    },
+    {
+        "category":  "AI Tools",
+        "name":  "Claude",
+        "id":  "Anthropic.Claude",
+        "source":  "winget",
+        "description":  "Claude desktop app"
+    },
+    {
+        "category":  "AI Tools",
+        "name":  "Ollama",
+        "id":  "Ollama.Ollama",
+        "source":  "winget",
+        "description":  "Run AI models on your PC"
+    },
+    {
+        "category":  "AI Tools",
+        "name":  "LM Studio",
+        "id":  "ElementLabs.LMStudio",
+        "source":  "winget",
+        "description":  "Run and chat with local AI models"
+    },
+    {
+        "category":  "AI Tools",
+        "name":  "ChatGPT",
+        "id":  "9PLM9XGG6VKS",
+        "source":  "msstore",
+        "description":  "ChatGPT desktop app"
+    },
+    {
+        "category":  "AI Tools",
+        "name":  "Claude Code",
+        "id":  "Anthropic.ClaudeCode",
+        "source":  "winget",
+        "description":  "Claude in your terminal for coding"
+    }
+]

@@ -1,0 +1,695 @@
+[
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Steam",
+        "id":  "Valve.Steam",
+        "source":  "winget",
+        "description":  "The biggest PC game store and library"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Epic Games Launcher",
+        "id":  "EpicGames.EpicGamesLauncher",
+        "source":  "winget",
+        "description":  "Epic store, free weekly games, Unreal Engine access"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "GOG Galaxy",
+        "id":  "GOG.Galaxy",
+        "source":  "winget",
+        "description":  "DRM-free games; can combine all your launchers"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "EA app",
+        "id":  "ElectronicArts.EADesktop",
+        "source":  "winget",
+        "description":  "EA games and EA Play"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Ubisoft Connect",
+        "id":  "Ubisoft.Connect",
+        "source":  "winget",
+        "description":  "Ubisoft games and Ubisoft+"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Battle.net",
+        "id":  "Blizzard.BattleNet",
+        "source":  "winget",
+        "description":  "Blizzard and Activision games"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Rockstar Games Launcher",
+        "id":  "RockstarGames.Launcher",
+        "source":  "winget",
+        "description":  "GTA and Red Dead"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Xbox app",
+        "id":  "9MV0B5HZVK9Z",
+        "source":  "msstore",
+        "description":  "Xbox, PC Game Pass and Microsoft Store games"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Amazon Games",
+        "id":  "Amazon.Games",
+        "source":  "winget",
+        "description":  "Amazon Games and Prime Gaming"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "itch.io",
+        "id":  "ItchIo.Itch",
+        "source":  "winget",
+        "description":  "Indie games and game jams"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Wargaming Game Center",
+        "id":  "Wargaming.GameCenter",
+        "source":  "winget",
+        "description":  "World of Tanks / Warships"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Paradox Launcher",
+        "id":  "ParadoxInteractive.ParadoxLauncher",
+        "source":  "winget",
+        "description":  "Paradox strategy games"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Nexon Plug",
+        "id":  "Nexon.NexonPlug",
+        "source":  "winget",
+        "description":  "Nexon games"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Minecraft Launcher",
+        "id":  "Mojang.MinecraftLauncher",
+        "source":  "winget",
+        "description":  "Minecraft Java and Bedrock"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Roblox Player",
+        "id":  "Roblox.Roblox",
+        "source":  "winget",
+        "description":  "Roblox"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "League of Legends (NA)",
+        "id":  "RiotGames.LeagueOfLegends.NA",
+        "source":  "winget",
+        "description":  "Riot Client + League (North America)"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "VALORANT (NA)",
+        "id":  "RiotGames.Valorant.NA",
+        "source":  "winget",
+        "description":  "Riot Client + VALORANT (North America)"
+    },
+    {
+        "category":  "Game Launchers \u0026 Stores",
+        "name":  "Meta Quest / Oculus",
+        "id":  "Meta.Oculus",
+        "source":  "winget",
+        "description":  "VR headset software"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "Playnite",
+        "id":  "Playnite.Playnite",
+        "source":  "winget",
+        "description":  "One library for every launcher"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "Heroic Games Launcher",
+        "id":  "HeroicGamesLauncher.HeroicGamesLauncher",
+        "source":  "winget",
+        "description":  "Open-source Epic, GOG and Amazon client"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "Prism Launcher",
+        "id":  "PrismLauncher.PrismLauncher",
+        "source":  "winget",
+        "description":  "Minecraft instance manager and mods"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "Ludusavi",
+        "id":  "mtkennerly.ludusavi",
+        "source":  "winget",
+        "description":  "Back up your game saves"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "Steam ROM Manager",
+        "id":  "SteamGridDB.RomManager",
+        "source":  "winget",
+        "description":  "Add emulated games to Steam"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "ReShade",
+        "id":  "Reshade.Setup",
+        "source":  "winget",
+        "description":  "Graphics filters for games"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "Special K",
+        "id":  "SpecialK.SpecialK",
+        "source":  "winget",
+        "description":  "Game fixes, HDR and frame tools"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "WeMod (Wand)",
+        "id":  "WeMod.WeMod",
+        "source":  "winget",
+        "description":  "Game trainers and cheats for single-player games"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "Vortex (Nexus Mods)",
+        "id":  "NexusMods.Vortex",
+        "source":  "winget",
+        "description":  "Nexus Mods manager: download and install game mods"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "Mod Organizer 2",
+        "id":  "ModOrganizer2.modorganizer",
+        "source":  "winget",
+        "description":  "Advanced mod manager for Skyrim, Fallout and more"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "LOOT",
+        "id":  "LOOT.LOOT",
+        "source":  "winget",
+        "description":  "Sorts your mod load order automatically"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "CurseForge",
+        "id":  "Overwolf.CurseForge",
+        "source":  "winget",
+        "description":  "Mods for Minecraft, WoW and more"
+    },
+    {
+        "category":  "Game Library \u0026 Mod Tools",
+        "name":  "r2modman",
+        "id":  "ebkr.r2modman",
+        "source":  "winget",
+        "description":  "Mod manager for Thunderstore games (Risk of Rain, Lethal Company...)"
+    },
+    {
+        "category":  "Voice, Chat \u0026 Music",
+        "name":  "Discord",
+        "id":  "Discord.Discord",
+        "source":  "winget",
+        "description":  "Voice and text chat"
+    },
+    {
+        "category":  "Voice, Chat \u0026 Music",
+        "name":  "Spotify",
+        "id":  "Spotify.Spotify",
+        "source":  "winget",
+        "description":  "Music"
+    },
+    {
+        "category":  "Voice, Chat \u0026 Music",
+        "name":  "Chatterino",
+        "id":  "ChatterinoTeam.Chatterino",
+        "source":  "winget",
+        "description":  "Fast Twitch chat client"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "OBS Studio",
+        "id":  "OBSProject.OBSStudio",
+        "source":  "winget",
+        "description":  "Free streaming and recording standard"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "Streamlabs Desktop",
+        "id":  "Streamlabs.Streamlabs",
+        "source":  "winget",
+        "description":  "OBS-based streaming app with alerts and themes"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "XSplit Broadcaster",
+        "id":  "SplitmediaLabs.XSplitBroadcaster",
+        "source":  "winget",
+        "description":  "Streaming and recording studio"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "Meld Studio",
+        "id":  "MeldStudio.MeldStudio",
+        "source":  "winget",
+        "description":  "Beginner-friendly streaming studio"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "Bandicam",
+        "id":  "BandicamCompany.Bandicam",
+        "source":  "winget",
+        "description":  "Lightweight game recorder"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "Medal",
+        "id":  "MedalB.V.Medal",
+        "source":  "winget",
+        "description":  "Clip and share gameplay highlights"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "ShareX",
+        "id":  "ShareX.ShareX",
+        "source":  "winget",
+        "description":  "Screenshots and screen recording"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "Streamer.bot",
+        "id":  "streamerbot.streamerbot",
+        "source":  "winget",
+        "description":  "Stream automation and chat commands"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "DistroAV (NDI for OBS)",
+        "id":  "DistroAV.DistroAV",
+        "source":  "winget",
+        "description":  "Send video between PCs in OBS"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "Camo Studio",
+        "id":  "ReincubateLtd.CamoStudio",
+        "source":  "winget",
+        "description":  "Use your phone as a webcam"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "DroidCam OBS",
+        "id":  "dev47apps.DroidCamOBSClient",
+        "source":  "winget",
+        "description":  "Phone as a webcam in OBS"
+    },
+    {
+        "category":  "Streaming \u0026 Recording",
+        "name":  "VLC media player",
+        "id":  "VideoLAN.VLC",
+        "source":  "winget",
+        "description":  "Plays any video or audio file"
+    },
+    {
+        "category":  "Capture Cards \u0026 Audio",
+        "name":  "Elgato Stream Deck",
+        "id":  "Elgato.StreamDeck",
+        "source":  "winget",
+        "description":  "Stream Deck button software"
+    },
+    {
+        "category":  "Capture Cards \u0026 Audio",
+        "name":  "Elgato Wave Link",
+        "id":  "Elgato.WaveLink",
+        "source":  "winget",
+        "description":  "Audio mixer for Elgato mics"
+    },
+    {
+        "category":  "Capture Cards \u0026 Audio",
+        "name":  "Elgato Camera Hub",
+        "id":  "Elgato.CameraHub",
+        "source":  "winget",
+        "description":  "Elgato webcam settings"
+    },
+    {
+        "category":  "Capture Cards \u0026 Audio",
+        "name":  "Elgato 4K Capture Utility",
+        "id":  "Elgato.4KCaptureUtility",
+        "source":  "winget",
+        "description":  "Elgato capture card software"
+    },
+    {
+        "category":  "Capture Cards \u0026 Audio",
+        "name":  "Elgato Control Center",
+        "id":  "Elgato.ControlCenter",
+        "source":  "winget",
+        "description":  "Elgato lights"
+    },
+    {
+        "category":  "Capture Cards \u0026 Audio",
+        "name":  "Voicemeeter",
+        "id":  "VB-Audio.Voicemeeter",
+        "source":  "winget",
+        "description":  "Virtual audio mixer (basic)"
+    },
+    {
+        "category":  "Capture Cards \u0026 Audio",
+        "name":  "Voicemeeter Banana",
+        "id":  "VB-Audio.Voicemeeter.Banana",
+        "source":  "winget",
+        "description":  "Virtual audio mixer (more channels)"
+    },
+    {
+        "category":  "Capture Cards \u0026 Audio",
+        "name":  "Voicemeeter Potato",
+        "id":  "VB-Audio.Voicemeeter.Potato",
+        "source":  "winget",
+        "description":  "Virtual audio mixer (most channels)"
+    },
+    {
+        "category":  "Capture Cards \u0026 Audio",
+        "name":  "Equalizer APO",
+        "id":  "9MV49Z407RH6",
+        "source":  "msstore",
+        "description":  "System-wide audio equalizer"
+    },
+    {
+        "category":  "Remote Play \u0026 Game Streaming",
+        "name":  "Steam Link",
+        "id":  "Valve.SteamLink",
+        "source":  "winget",
+        "description":  "Play your PC games on another device"
+    },
+    {
+        "category":  "Remote Play \u0026 Game Streaming",
+        "name":  "Moonlight",
+        "id":  "MoonlightGameStreamingProject.Moonlight",
+        "source":  "winget",
+        "description":  "Stream games from an NVIDIA or Sunshine PC"
+    },
+    {
+        "category":  "Remote Play \u0026 Game Streaming",
+        "name":  "Parsec",
+        "id":  "Parsec.Parsec",
+        "source":  "winget",
+        "description":  "Low-latency remote play"
+    },
+    {
+        "category":  "Performance \u0026 Hardware",
+        "name":  "NVIDIA App",
+        "id":  "XP8CLZL93F5Z4P",
+        "source":  "msstore",
+        "description":  "NVIDIA drivers, overlay and game settings"
+    },
+    {
+        "category":  "Performance \u0026 Hardware",
+        "name":  "MSI Afterburner",
+        "id":  "Guru3D.Afterburner",
+        "source":  "winget",
+        "description":  "GPU overclocking and FPS overlay"
+    },
+    {
+        "category":  "Performance \u0026 Hardware",
+        "name":  "HWiNFO",
+        "id":  "REALiX.HWiNFO",
+        "source":  "winget",
+        "description":  "Hardware sensors and temperatures"
+    },
+    {
+        "category":  "Performance \u0026 Hardware",
+        "name":  "CapFrameX",
+        "id":  "CXWorld.CapFrameX",
+        "source":  "winget",
+        "description":  "Frame time benchmarking"
+    },
+    {
+        "category":  "Performance \u0026 Hardware",
+        "name":  "NZXT CAM",
+        "id":  "NZXT.CAM",
+        "source":  "winget",
+        "description":  "PC monitoring and NZXT cooling"
+    },
+    {
+        "category":  "Performance \u0026 Hardware",
+        "name":  "Process Lasso",
+        "id":  "BitSum.ProcessLasso",
+        "source":  "winget",
+        "description":  "Keeps games smooth by managing CPU priority"
+    },
+    {
+        "category":  "Performance \u0026 Hardware",
+        "name":  "OpenRGB",
+        "id":  "OpenRGB.OpenRGB",
+        "source":  "winget",
+        "description":  "Control RGB lighting from any brand"
+    },
+    {
+        "category":  "Performance \u0026 Hardware",
+        "name":  "SignalRGB",
+        "id":  "WhirlwindFX.SignalRgb",
+        "source":  "winget",
+        "description":  "Sync RGB lighting across brands"
+    },
+    {
+        "category":  "Keyboard, Mouse \u0026 Headset Software",
+        "name":  "Logitech G HUB",
+        "id":  "Logitech.GHUB",
+        "source":  "winget",
+        "description":  "Logitech gaming gear"
+    },
+    {
+        "category":  "Keyboard, Mouse \u0026 Headset Software",
+        "name":  "Razer Synapse 4",
+        "id":  "RazerInc.RazerInstaller.Synapse4",
+        "source":  "winget",
+        "description":  "Razer gaming gear"
+    },
+    {
+        "category":  "Keyboard, Mouse \u0026 Headset Software",
+        "name":  "Corsair iCUE 5",
+        "id":  "Corsair.iCUE.5",
+        "source":  "winget",
+        "description":  "Corsair gear and lighting"
+    },
+    {
+        "category":  "Keyboard, Mouse \u0026 Headset Software",
+        "name":  "SteelSeries GG",
+        "id":  "SteelSeries.GG",
+        "source":  "winget",
+        "description":  "SteelSeries gear, Sonar audio"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "RetroArch",
+        "id":  "Libretro.RetroArch",
+        "source":  "winget",
+        "description":  "All-in-one: runs most retro consoles through add-on \"cores\""
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "Dolphin",
+        "id":  "DolphinEmulator.Dolphin",
+        "source":  "winget",
+        "description":  "Nintendo GameCube and Wii emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "Cemu",
+        "id":  "Cemu.Cemu",
+        "source":  "winget",
+        "description":  "Nintendo Wii U emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "PCSX2",
+        "id":  "PCSX2Team.PCSX2",
+        "source":  "winget",
+        "description":  "PlayStation 2 emulator that upscales games to HD"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "DuckStation",
+        "id":  "Stenzek.DuckStation",
+        "source":  "winget",
+        "description":  "PlayStation 1 emulator with upscaling and save states"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "PPSSPP",
+        "id":  "PPSSPPTeam.PPSSPP",
+        "source":  "winget",
+        "description":  "PlayStation Portable (PSP) emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "shadPS4",
+        "id":  "shadps4-emu.shadPS4",
+        "source":  "winget",
+        "description":  "Early PlayStation 4 emulator (experimental)"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "Vita3K",
+        "id":  "Vita3K.Vita3K",
+        "source":  "winget",
+        "description":  "PlayStation Vita emulator (experimental)"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "Azahar",
+        "id":  "AzaharEmu.Azahar",
+        "source":  "winget",
+        "description":  "Nintendo 3DS emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "melonDS",
+        "id":  "melonDS.melonDS",
+        "source":  "winget",
+        "description":  "Nintendo DS emulator, accurate and fast"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "DeSmuME",
+        "id":  "DeSmuMETeam.DeSmuME",
+        "source":  "winget",
+        "description":  "Nintendo DS emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "mGBA",
+        "id":  "JeffreyPfau.mGBA",
+        "source":  "winget",
+        "description":  "Game Boy, Game Boy Color and Game Boy Advance"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "Visual Boy Advance-M",
+        "id":  "VisualBoyAdvance-M.VisualBoyAdvance-M",
+        "source":  "winget",
+        "description":  "Game Boy and Game Boy Advance emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "Mesen 2",
+        "id":  "SourMesen.Mesen2",
+        "source":  "winget",
+        "description":  "NES, SNES and Game Boy in one accurate emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "bsnes",
+        "id":  "bsnes-emu.BSNES",
+        "source":  "winget",
+        "description":  "Super Nintendo (SNES) emulator, very accurate"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "FCEUX",
+        "id":  "FCEUX.FCEUX",
+        "source":  "winget",
+        "description":  "NES / Famicom emulator with debugging tools"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "Project64",
+        "id":  "Project64.Project64",
+        "source":  "winget",
+        "description":  "Nintendo 64 emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "Xenia",
+        "id":  "Xenia.Xenia",
+        "source":  "winget",
+        "description":  "Xbox 360 emulator (experimental)"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "xemu",
+        "id":  "xemu-project.xemu",
+        "source":  "winget",
+        "description":  "Original Xbox emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "redream",
+        "id":  "redream.redream",
+        "source":  "winget",
+        "description":  "Sega Dreamcast emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "ares",
+        "id":  "ares-emulator.ares",
+        "source":  "winget",
+        "description":  "Multi-system: NES, SNES, Genesis, N64 and more"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "MAME",
+        "id":  "MAMEdev.MAME",
+        "source":  "winget",
+        "description":  "Arcade machine emulator for thousands of arcade games"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "ScummVM",
+        "id":  "ScummVM.ScummVM",
+        "source":  "winget",
+        "description":  "Plays classic point-and-click adventure games"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "DOSBox Staging",
+        "id":  "DOSBoxStaging.DOSBoxStaging",
+        "source":  "winget",
+        "description":  "Runs old MS-DOS games on modern Windows"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "DOSBox-X",
+        "id":  "joncampbell123.DOSBox-X",
+        "source":  "winget",
+        "description":  "DOSBox with extras for DOS and early Windows games"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "Stella",
+        "id":  "TheStellaTeam.Stella",
+        "source":  "winget",
+        "description":  "Atari 2600 emulator"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "86Box",
+        "id":  "86Box.86Box",
+        "source":  "winget",
+        "description":  "Emulates whole vintage PCs (DOS and early Windows era)"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "BizHawk",
+        "id":  "TASEmulators.BizHawk",
+        "source":  "winget",
+        "description":  "Multi-system emulator popular with speedrunners"
+    },
+    {
+        "category":  "Emulators \u0026 Retro (Optional)",
+        "name":  "EmulationStation DE",
+        "id":  "ES-DE.EmulationStation-DE",
+        "source":  "winget",
+        "description":  "Pretty front-end that launches all your emulators"
+    }
+]
